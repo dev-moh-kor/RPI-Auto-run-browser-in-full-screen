@@ -38,8 +38,10 @@ Add the following parameter --incognito
 3. Turn the Cursor Off
 
   Finally you need to add this line to the autostart script:<br />
-`@unclutter` -idle 0
-
+  ```shell
+ `@unclutter` -idle 0
+  ```
+  
   Press ctrl+X and then hit Y to save your changes.
 
 4. Reboot
